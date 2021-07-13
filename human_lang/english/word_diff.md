@@ -8,3 +8,6 @@ To understand ones, we should figure out word one first. One is usually be a Num
 Ones is one's plural .
 
 * Let's look at the photographs - the ones you took in Paris.
+
+## "many" vs "multiple"
+multiple is more focused on expressing more than one.
